@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=\, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .about-section {
@@ -39,7 +39,7 @@
                                 <img src="https://lh6.googleusercontent.com/proxy/Csmg4D94b2NqaiwUy9Qcwj4HOKNi2rC5lSJF0mJbeAlp6NFs8AkLr42CBWf9vP_VJJztrelLC4GFzBYJsw3YDifCVMxy_5kvRYkAMVvLdkfQVtDM0urDhiMgveuz2GvI33FieSoVJpQ" class="img-fluid rounded-4 shadow-sm" alt="About Image">
                             </div>
                             <div class="col-md-6 mt-4 mt-md-0">
-                                <h1 class="display-5 fw-bold text-dark mb-3">About Our Project</h1>
+                                <h1 class="display-6 fw-light text-dark mb-3 mr-5">AT WASTE MANAGEMENT</h1>
                                 <p class="lead text-muted">
                                     Our Waste Management System brings innovation to the way we handle and monitor waste disposal.
                                     We believe small steps lead to big environmental impacts.
