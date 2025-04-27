@@ -30,7 +30,7 @@ class AuthController extends Controller
             return redirect()->route('dashboard');
         }
 
-        return back()->withErrors(['Invalid credentials']);
+        return back()->with('error', 'wrong email or password');
     }
 
     public function logout(Request $request) {
